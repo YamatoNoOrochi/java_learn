@@ -1,2 +1,2 @@
 # java_learn
-All tasks from https://epam.learn.com
+All tasks from https://learn.epam.com/start
